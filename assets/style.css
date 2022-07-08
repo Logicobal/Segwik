@@ -1519,12 +1519,10 @@ footer .content p {
     }
     .eight-section .left-img img {
         position: absolute;
-        top: 29%;
-        right: 4%;
-        width: 47%;
-        /* margin: -39rem 90rem 0px 0; */
-        height: auto;
-        /* max-width: 100%;*/
+    top: -19%;
+    right: 4%;
+    width: 28%;
+    height: auto;
     }
     .eight-section .right-img h1 {
         font-size: 3rem;
@@ -1719,6 +1717,13 @@ footer .content p {
     top: -8%;
     left: 43%;
     width: 14%;
+    }
+    .eight-section .left-img img {
+        position: absolute;
+    top: -12%;
+    right: 4%;
+    width: 28%;
+    height: auto;
     }
 }
 @media ( max-width: 380px) { 
